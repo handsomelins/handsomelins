@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm linshuaishuai.
 
 💡 **AI Enthusiast | Full-stack Developer | System Design & Architecture**
 
