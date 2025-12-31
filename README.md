@@ -51,6 +51,8 @@ I enjoy turning complex problems into clean, maintainable solutions.
 
 ## 📫 Get in Touch
 - GitHub: https://github.com/handsomelins
+- Email: handsomelins@gmail.com / handsomelins@qq.com
+- HomePage: https://www.linshuaishuai.com / https://lss.me
 
 ⭐ Feel free to explore my repositories and follow my journey!
 
