@@ -50,7 +50,7 @@ I enjoy turning complex problems into clean, maintainable solutions.
 ---
 
 ## 📫 Get in Touch
-- GitHub: https://github.com/[your-username]
+- GitHub: https://github.com/handsomelins
 
 ⭐ Feel free to explore my repositories and follow my journey!
 
